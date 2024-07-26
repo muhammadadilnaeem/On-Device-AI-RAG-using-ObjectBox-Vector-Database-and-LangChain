@@ -13,7 +13,7 @@ Welcome to the **On-Device AI RAG** project! This repository demonstrates how to
 - **Efficient Data Retrieval**: Fast and reliable vector search with ObjectBox.
 - **Powerful Generation**: Leverage LangChain for sophisticated text generation.
 
-  
+https://github.com/user-attachments/assets/e231a732-51a8-42cb-b3f1-ca82dec21c44
 
 ## **📚 Overview**
 
